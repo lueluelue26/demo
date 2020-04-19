@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="textview_intercept">骚扰拦截</string>
+    <string name="textview_virus">病毒查杀</string>
+    <string name="textview_lock">远程锁定</string>
+    <string name="textview_progress">进程管理</string>
+    <string name="textview_rubbish">垃圾清理</string>
+    <string name="textview_flow">流量管理</string>
+    <string name="button0">清理加速</string>
+    <string name="textview_version">1.001beta</string>
+    <string name="textview_sms">短信</string>
+    <string name="textview_phone">电话</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview_setting">设置</string>
+</resources>
